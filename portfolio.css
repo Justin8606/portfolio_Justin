@@ -54,6 +54,7 @@ body{
 
 
 
+
 /* body{
     margin: 0px;
 }
@@ -159,6 +160,9 @@ footer{
     .form-design{
         width: 100%;
         
+    }
+    span{
+        display: none;
     }
     
 }
