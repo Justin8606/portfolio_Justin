@@ -161,7 +161,7 @@ footer{
         width: 100%;
         
     }
-    span{
+    .visibility{
         display: none;
     }
     
