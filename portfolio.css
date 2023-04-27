@@ -1,5 +1,6 @@
 body{
     background-color: whitesmoke;
+    
 }
 .starting{
     width: 100%;
@@ -144,6 +145,10 @@ footer{
     color: white;
     height: 150px;
 }
+/* .form-design{
+    
+    width:;
+} */
 
 
 
@@ -151,6 +156,13 @@ footer{
     .about-text11{
         font-size: medium;
     }
+    .form-design{
+        width: 100%;
+        
+    }
+    
+}
+@media (max-width:400px){
     .form-design{
         width: 100%;
         
